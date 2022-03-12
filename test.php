@@ -2,10 +2,7 @@
 
 include("admin/global.php");
 
-// echo "Brijesh";
-
-// Display the list of all file
-// and directory
+echo "Brijesh";
 
 
 /*
