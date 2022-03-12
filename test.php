@@ -2,7 +2,7 @@
 
 include("admin/global.php");
 
-// echo "test";
+// echo "test"; nitin
 
 // Display the list of all file
 // and directory
