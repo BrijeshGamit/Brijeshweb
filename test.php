@@ -1,7 +1,7 @@
 <?php
 
 include("admin/global.php");
-include 'include/functions.php';
+
 // echo "test";
 
 // Display the list of all file
