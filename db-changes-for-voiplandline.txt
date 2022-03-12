@@ -1,0 +1,8 @@
+1) copy from demo to live and trancate
+	io_voiplandlinebooking 
+	io_voiplandlinenumbers 
+
+2) copy from demo to live
+	io_citywithcode 
+	io_voiplandlinepackages 
+	io_search
